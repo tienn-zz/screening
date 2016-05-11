@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">screen</string>
+  <string name="title_user_list">Users</string>
+  <string name="title_user_detail">User Detail</string>
+  <string name="username">Username</string>
+  <string name="real_name">Name</string>
+  <string name="title">Title</string>
+  <string name="email">Email</string>
+  <string name="phone">Phone</string>
+</resources>
